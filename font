@@ -1,0 +1,8 @@
+/* Windows 11 font */
+@import url(https://raw.githubusercontent.com/umrem222/fashion-demon-xd/main/Fuggles-Regular.ttf);
+/* Font */
+:root {
+    --font-primary: Fuggles Regular, Fuggles-serif;
+    --font-display: Fuggles Regular, Fuggles-serif;
+    --font-headline: Fuggles Regular, Fuggles-serif;
+}
